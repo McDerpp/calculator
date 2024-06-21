@@ -1,0 +1,16 @@
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\bin\Debug\net8.0-windows\PracticePractice.exe
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\bin\Debug\net8.0-windows\PracticePractice.deps.json
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\bin\Debug\net8.0-windows\PracticePractice.runtimeconfig.json
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\bin\Debug\net8.0-windows\PracticePractice.dll
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\bin\Debug\net8.0-windows\PracticePractice.pdb
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\obj\Debug\net8.0-windows\PracticePractice.Form1.resources
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\obj\Debug\net8.0-windows\PracticePractice.csproj.GenerateResource.cache
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\obj\Debug\net8.0-windows\PracticePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\obj\Debug\net8.0-windows\PracticePractice.AssemblyInfoInputs.cache
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\obj\Debug\net8.0-windows\PracticePractice.AssemblyInfo.cs
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\obj\Debug\net8.0-windows\PracticePractice.csproj.CoreCompileInputs.cache
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\obj\Debug\net8.0-windows\PracticePractice.dll
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\obj\Debug\net8.0-windows\refint\PracticePractice.dll
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\obj\Debug\net8.0-windows\PracticePractice.pdb
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\obj\Debug\net8.0-windows\PracticePractice.genruntimeconfig.cache
+C:\Users\jpelec3a24\source\repos\PracticePractice\PracticePractice\obj\Debug\net8.0-windows\ref\PracticePractice.dll
